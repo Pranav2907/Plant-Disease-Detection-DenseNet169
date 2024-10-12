@@ -1,0 +1,12 @@
+Instructions :
+
+1) All the training models are in the respected ipynb files
+2) Regarding the webapp open the project folder in VS Code
+3) Create virtual environment env using this command:
+    virtualenv env
+4) Activate the environment using the following command:
+   .\env\Scripts\activate
+5) Install all the dependancies using the following command:
+    pip install -r requirements.txt
+6) Run the app using the following command:
+   streamlit run app.py
